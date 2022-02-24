@@ -3,6 +3,8 @@
 <h3>Aplicativos feitos exclusivamente para o SENAI Taubaté 📲</h3>
 <h4>Aqui estará todos os aplicativos feitos de forma a apoiar o SENAI com seus alunos.<br>Onde os alunos poderão buscar mais informações, tanto dos professores, quanto da própria instituição✔️</h4>
 
+<img src="assets_site/website_screenshot.png">
+
 <h2>👨🏾‍🏫 Contatos dos Professores</h2>
 <h4>Aplicativo que possui acesso dos contatos da equipe docente</h4>
 <h4>Devs: Felipe Reis, Melissa, Camilly, Stephanie, Maria Luiza</h4>
